@@ -1,2 +1,0 @@
-# Amplifier
-my web
